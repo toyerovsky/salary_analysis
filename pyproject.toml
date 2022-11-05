@@ -7,6 +7,7 @@ authors = ["Przemysław Postrch <przemyslaw.postrach@hotmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 pandas = "^1.5.1"
+jupyter = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
